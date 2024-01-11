@@ -19,5 +19,5 @@ Tiếng Hàn có đặc trưng là gắn thêm các từ công cụ vào một y
 
 Vĩ tố gồm có vĩ tố kết thúc câu diễn tả sự kết thúc câu, vĩ tố liên kết dùng để liên kết câu với câu, vĩ tố tiền kết thúc có chức năng đứng trước vĩ tố kết thúc câu và vĩ tố liên kết, vĩ tố chuyển thành dùng để thay đổi chức năng của vị từ trong câu, chức năng của vị từ trong câu được quyết định tùy thuộc vào việc vĩ tố nào trong số các vĩ tố này được gắn vào căn tố của vị từ.
 
-[☞\[Phụ lục 1\] Chia vị từ](/docs/phu-luc/phu-luc-1-chia-vi-tu/)
+[☞\[Phụ lục 1\] Chia vị từ](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-1-chia-vi-tu/)
 {: .text-right }
