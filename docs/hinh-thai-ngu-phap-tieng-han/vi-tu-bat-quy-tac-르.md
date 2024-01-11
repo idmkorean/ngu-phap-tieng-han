@@ -11,14 +11,14 @@ level: 1
 
 Vị từ có căn tố kết thúc bằng '르' nếu gặp vĩ tố đứng sau bắt đầu bằng một nguyên âm như '-어(아,여)서, -어(아,여)요, -었(았, 었)습니다' thì nguyên âm 'ㅡ' của '르' được lược bỏ rồi thêm vào 'ㄹ'.
 
-☞[Cách chia vị từ bất quy tắc](/docs/khai-quat-ngu-phap-tieng-han/cach-chia-bat-quy-tac-cua-vi-tu)
+☞[Cách chia vị từ bất quy tắc](/ngu-phap-tieng-han/docs/khai-quat-ngu-phap-tieng-han/cach-chia-bat-quy-tac-cua-vi-tu)
 
 모르
 : 다
 
 : 어요 → 모르어요 → 몰ㄹ어요 (Tỉnh lược 'ㅡ') → 몰러요 (Thêm 'ㄹ') → 몰라요 (điều hòa nguyên âm)
 
-☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
+☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
 
 **Ví dụ:**
 
