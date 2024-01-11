@@ -10,7 +10,7 @@ parent: Hình thái ngữ pháp tiếng Hàn
 
 Một số vị từ có căn tố kết thúc bằng 'ㄷ' thì 'ㄷ' biến thành 'ㄹ' khi đứng trước nguyên âm. Những vị từ thuộc về loại này có 듣다, 걷다, 묻다 (hỏi), 싣다, 깨닫다,..
 
-☞[Cách chia vị từ bất quy tắc](/docs/khai-quat-ngu-phap-tieng-han/cach-chia-bat-quy-tac-cua-vi-tu), [\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
+☞[Cách chia vị từ bất quy tắc](/ngu-phap-tieng-han/docs/khai-quat-ngu-phap-tieng-han/cach-chia-bat-quy-tac-cua-vi-tu), [\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
 
 듣
 : 다
