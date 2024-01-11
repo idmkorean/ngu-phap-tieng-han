@@ -8,7 +8,7 @@ parent: Hình thái ngữ pháp tiếng Hàn
 # VĨ từ ㄹ (ㄹ 동사)
 {: .no_toc }
 
-Những vị từ có căn tố kết thúc bằng 'ㄹ' nếu gặp các vĩ tố bắt đầu bằng 'ㄴ,ㅂ,ㅅ' ở sau thì 'ㄹ' của căn tố mất đi. [☞Cách chia vị từ bất quy tắc](/docs/khai-quat-ngu-phap-tieng-han/cach-chia-bat-quy-tac-cua-vi-tu)
+Những vị từ có căn tố kết thúc bằng 'ㄹ' nếu gặp các vĩ tố bắt đầu bằng 'ㄴ,ㅂ,ㅅ' ở sau thì 'ㄹ' của căn tố mất đi. [☞Cách chia vị từ bất quy tắc](/ngu-phap-tieng-han/docs/khai-quat-ngu-phap-tieng-han/cach-chia-bat-quy-tac-cua-vi-tu)
 
 알
 : 다
@@ -25,7 +25,7 @@ Những vị từ có căn tố kết thúc bằng 'ㄹ' nếu gặp các vĩ t�
 
 Tính từ: 멀다, 가늘다, (설탕이) 달다, 설다, (사과가) 잘다
 
-[☞\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
+[☞\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
 {: .text-right }
 
 **Ví dụ:**
