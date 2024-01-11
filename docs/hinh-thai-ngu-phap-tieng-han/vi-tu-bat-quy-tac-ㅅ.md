@@ -11,7 +11,7 @@ level: 1
 
 Vị từ kết thúc bằng 'ㅅ' nếu gặp vĩ tố bắt đầu bằng nguyên âm ở sau thì 'ㅅ' mất đi.
 
-☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
+☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
 
 낫
 : 다
