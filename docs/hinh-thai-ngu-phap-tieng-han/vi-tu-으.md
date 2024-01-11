@@ -11,7 +11,7 @@ level: 1
 
 Nếu vị từ có căn tố kết thúc bằng '으' gặp vĩ tố bắt đầu bằng nguyên âm thì '으' mất đi. Tất cả các vị từ '으' đều được chia theo quy tắc này.
 
-☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
+☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
 
 바쁘
 : 다
