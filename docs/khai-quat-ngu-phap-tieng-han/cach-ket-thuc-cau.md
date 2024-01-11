@@ -21,7 +21,7 @@ parent: Khái quát ngữ pháp tiếng Hàn
 
 Khi kết thúc một câu nhất định phải có yếu tố diễn tả sự kết thúc câu. Cách kết thúc diễn tả sự kết thúc câu xuất hiện ở vị ngữ, biểu thị bằng cách gắn vĩ tố kết thúc câu hoặc gắn vĩ tố chuyển thành dạng danh từ vào sau căn tố của vị từ. Vĩ tố kết thúc câu thể hiện kiểu câu và hệ thống diễn ngôn, kiểu câu phân thành câu trần thuật, câu nghi vấn, câu mệnh lệnh và câu đề nghị còn hệ thống diễn ngôn gồm thể trang trọng, thể không trang trọng hoặc dạng đề cao và hạn thấp.
 
-☞[\[Phụ lục 4\] Hệ thống vĩ tố kết thúc câu](/docs/phu-luc/phu-luc-4-he-thong-vi-to-ket-thuc-cau/)
+☞[\[Phụ lục 4\] Hệ thống vĩ tố kết thúc câu](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-4-he-thong-vi-to-ket-thuc-cau/)
 {: .text-right }
 
 ## Câu trần thuật
@@ -358,7 +358,7 @@ Là trường hợp hỏi người nghe về ý đồ mà người nói muốn t
 {: .note-title}
 > Phụ chú
 >
-> '-ㄹ까(요)?' có nghĩa khác nhau tùy theo chủ ngữ. Khi chủ ngữ là ngôi thứ nhất số ít như ở đây thì diễn tả ý đồ của người nói, khi chủ ngữ là ngôi thứ ba thì được dùng như vĩ tố kết thúc câu nghi vấn đơn thuần. ☞[-(으)ㄹ까(요)?](/docs/hinh-thai-ngu-phap-tieng-han/-(으)ㄹ까(요))
+> '-ㄹ까(요)?' có nghĩa khác nhau tùy theo chủ ngữ. Khi chủ ngữ là ngôi thứ nhất số ít như ở đây thì diễn tả ý đồ của người nói, khi chủ ngữ là ngôi thứ ba thì được dùng như vĩ tố kết thúc câu nghi vấn đơn thuần. ☞[-(으)ㄹ까(요)?](/ngu-phap-tieng-han/docs/hinh-thai-ngu-phap-tieng-han/-(으)ㄹ까(요))
 
 ### Những loại câu nghi vấn khác: câu nghi vấn trần thuật, câu nghi vấn cảm thán, câu nghi vấn mệnh lệnh
 
