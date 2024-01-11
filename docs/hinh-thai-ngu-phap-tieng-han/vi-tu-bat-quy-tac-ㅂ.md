@@ -11,7 +11,7 @@ level: 1
 
 Nếu vị từ có batchim là 'ㅂ' gặp vĩ tố bắt đầu bằng nguyên âm thì 'ㅂ' được chuyển thành '오' hoặc '우'. Chẳng hạn như '돕다' thì 'ㅂ' sẽ biết thành '오' khi đứng trước vĩ tố bắt đầu bằng nguyên âm dương tính (ㅏ, ㅗ), biến thành '우' khi vĩ tố bắt đầu bằng nguyên âm âm tính (những nguyên âm khác ngoại trừ ㅏ, ㅗ).
 
-☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
+☞[\[Phụ lục 2\] Phân loại cách chia bất quy tắc của vị từ](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-2-phan-loai-cach-chia-bat-quy-tac-cua-vi-tu/)
 
 돕
 : 다
