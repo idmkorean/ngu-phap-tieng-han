@@ -21,12 +21,12 @@ parent: Khái quát ngữ pháp tiếng Hàn
 
 Thì của các ngôn ngữ Ấn Âu được phân thành hiện tại, quá khứ, tương lai với trọng tâm là thời điểm phát ngôn theo thời gian tự nhiên. Tuy nhiên trường hợp của tiếng Hàn, thể thời gian có tính tự nhiên và thể hành động của người nói hoặc chủ ngữ trong câu cùng phối hợp nhau tạo thành. Những yêu tố chỉ thì trong tiếng Hàn gồm có:
 - Vĩ tố tiền kết thúc: -었(았/였)-, -겠-, -더-
-- Vĩ tố dạng định ngữ: [-는, -(으)느 -(으)ㄹ](/docs/hinh-thai-ngu-phap-tieng-han/-는-(으)ㄴ-(으)ㄹ)
+- Vĩ tố dạng định ngữ: [-는, -(으)느 -(으)ㄹ](/ngu-phap-tieng-han/docs/hinh-thai-ngu-phap-tieng-han/-는-(으)ㄴ-(으)ㄹ)
 - Các phó từ chỉ thời gian: 지금, 아까, 늘, 일전에...
 
 Vĩ tố tiền kết thúc, '-었(았/였)-' chỉ thì quá khứ diễn tả sự hoàn thành hành động của chủ ngữ trong câu, '-겠-' chỉ thì tương lai dùng khi nói về sự việc chưa được xác nhận qua việc thể hiện tâm trạng của người nói. Còn '-더-' dùng khi người nói nhớ lại sự việc đã trải qua trong quá khứ rồi nói ra. Tuy nhiên, các vĩ tố này kết hợp với những yếu tố khác trong câu thể hiện các ý nghĩa khác nhau.
 
-☞[\[Phụ lục 3\] Thì và vĩ tố chỉ thì](/docs/phu-luc/phu-luc-3-thi-va-vi-to-chi-thi/)
+☞[\[Phụ lục 3\] Thì và vĩ tố chỉ thì](/ngu-phap-tieng-han/docs/phu-luc/phu-luc-3-thi-va-vi-to-chi-thi/)
 {: .text-right }
 
 ## Hiện tại
@@ -60,7 +60,7 @@ Diễn tả diễn tiến của hành động hiện tại.
 {: .note-title}
 > Phụ chú
 >
-> Hiện tại tiếp diễn dùng '-고 있다' gắn vào động từ, loại này dùng khi nói nhấn mạnh một cách đặc biệt hành động đang diễn ra. Trong tiếng Hàn, có thể diễn tả hiện tại tiếp diễn bằng thì hiện tại. ☞[-고 있다](/docs/hinh-thai-ngu-phap-tieng-han/-고-있다)
+> Hiện tại tiếp diễn dùng '-고 있다' gắn vào động từ, loại này dùng khi nói nhấn mạnh một cách đặc biệt hành động đang diễn ra. Trong tiếng Hàn, có thể diễn tả hiện tại tiếp diễn bằng thì hiện tại. ☞[-고 있다](/ngu-phap-tieng-han/docs/hinh-thai-ngu-phap-tieng-han/-고-있다)
 
 ### Trường hợp tính từ và vị từ 이다
 
