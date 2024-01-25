@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 308 Thể 해라
+title: Thể 해라
 nav_order: 308
 parent: Hình thái ngữ pháp tiếng Hàn
 ---
 
-# -너라
+# -(는/ㄴ)다, -(느)냐?/니?, -(어/아/여)라, -자 (thể 해라)
 {: .no_toc }
 
 ## Phạm trù
@@ -14,32 +14,141 @@ Vĩ tố kết thúc câu
 
 ## Cấu tạo
 
-Là vĩ tố kết thúc câu dạng mệnh lệnh thể 해라, chỉ dùng với động từ '오다' hoặc động từ kết hợp với '오다'. Vĩ tố kết thúc câu thể 해라 phần lớn dùng '-어(아/여)라', còn những động từ như 오다, 나오다, 들어오다, 해오다, 가져오다, 읽어오다,... thì dùng '-너라'.
+Là thể 해라 diễn đạt cách nói thường thể trang trọng, dùng với trẻ con hay trong quan hệ bạn bè rất thân thiết. Tùy theo hình thái câu và loại vị từ mà chia theo bảng dưới đây. Kết hợp được với vĩ tố dạng tôn trọng '-시-' và vĩ tố chỉ thì.
 
-☞[-거라](/docs/hinh-thai-ngu-phap-tieng-han/-거라), [Thể 해라](/docs/hinh-thai-ngu-phap-tieng-han/the-해라), [\[Phụ lục 4\] Hệ thống vĩ tố kết thúc câu Thể 해라](/docs/phu-luc/phu-luc-4-he-thong-vi-to-ket-thuc-cau)
+☞[Cách nói tôn trọng và cách nói thường](/ngu-phap-tieng-han/docs/khai-quat-ngu-phap-tieng-han/cach-noi-ton-trong-va-cach-noi-thuong/)
 
-## Ý nghĩa
+<table>
+    <tr>
+        <th>Dạng câu</th>
+        <th>Loại vị từ</th>
+        <th>Âm tiết cuối</th>
+        <th>Vĩ tố kết thúc câu thể 해라</th>
+        <th>Ví dụ</th>
+    </tr>
+    <tr>
+        <td rowspan ="5">Dạng trần thuật</td>
+        <td rowspan ="2">Động từ</td>
+        <td>Phụ âm</td>
+        <td>-는다</td>
+        <td>먹는다</td>
+    </tr>
+    <tr>
+        <td>Nguyên âm</td>
+        <td>-ㄴ다</td>
+        <td>간다</td>
+    </tr>
+    <tr>
+        <td>Tính từ</td>
+        <td></td>
+        <td>-다</td>
+        <td>좋다, 크다</td>
+    </tr>
+    <tr>
+        <td rowspan ="2">Vị từ 이다</td>
+        <td>Phụ âm</td>
+        <td>-이다</td>
+        <td>책이다</td>
+    </tr>
+    <tr>
+        <td>Nguyên âm</td>
+        <td>-다</td>
+        <td>의자다</td>
+    </tr>
+    <tr>
+        <td rowspan ="5">Dạng nghi vấn</td>
+        <td>Động từ</td>
+        <td></td>
+        <td>-(느)냐?/니?</td>
+        <td>가느냐?/ 가니?</td>
+    </tr>
+    <tr>
+        <td rowspan ="2">Tính từ</td>
+        <td>Phụ âm</td>
+        <td>-(으)냐?/ -(으)니?</td>
+        <td>좋으냐?/ 좋으니?</td>
+    </tr>
+    <tr>
+        <td>Nguyên âm</td>
+        <td>냐?/니?</td>
+        <td>크냐?/ 크니?</td>
+    </tr>
+    <tr>
+        <td rowspan ="2">Vị từ 이다</td>
+        <td>Phụ âm</td>
+        <td>-이냐?</td>
+        <td>책이냐?</td>
+    </tr>
+    <tr>
+        <td>Nguyên âm</td>
+        <td>-냐?</td>
+        <td>의자냐?</td>
+    </tr>
+    <tr>
+        <td>Dạng mệnh lệnh</td>
+        <td>Động từ</td>
+        <td></td>
+        <td>-어(아/여)라</td>
+        <td>먹어라, 가라</td>
+    </tr>
+    <tr>
+        <td>Dạng đề nghị</td>
+        <td>Động từ</td>
+        <td></td>
+        <td>-자</td>
+        <td>먹자, 가자</td>
+    </tr>
+    <tr>
+        <td rowspan ="4">Dạng cảm thán</td>
+        <td>Động từ</td>
+        <td></td>
+        <td>-는구나</td>
+        <td>먹는구나, 가는구나</td>
+    </tr>
+    <tr>
+        <td>Tính từ</td>
+        <td></td>
+        <td>-구나</td>
+        <td>좋구나, 크구나</td>
+    </tr>
+    <tr>
+        <td rowspan ="2">Vị từ 이다</td>
+        <td>Phụ âm</td>
+        <td>-이구나</td>
+        <td>책이구나</td>
+    </tr>
+    <tr>
+        <td>Nguyên âm</td>
+        <td>-구나</td>
+        <td>의자구나</td>
+    </tr>
+</table>
 
-Vì là thể 해라 nên người trên dùng với kẻ dưới có thứ bậc rất thấp. Chủ yếu người lớn dùng với trẻ con.
+**Ví dụ**
 
-**Ví dụ:**
-
-> 영희야, 이리 **오너라**.
+> 저기 아이들이 **온다**.
 >
-> Younghee à, đến đây.
+> Bọn trẻ đến kìa.
 
-> 안으로 들어 **오너라**.
+> 점심에는 라면을 **먹자**.
 >
-> Vào trong này đi.
+> Trưa chúng ta ăn mì gói nhé.
 
-> 내일은 숙제를 잊지 말고 해 **오너라**.
+> 여기 빈자리가 **있구나**?
 >
-> Ngày mai các em đừng quên làm bài tập và mang đến nhé.
+> Ở đây có chỗ trống.
 
-> 13쪽부터 17쪽까지 외워 **오너라**.
+> 이 의자에 **앉아라**.
 >
-> Các em học thuộc lòng từ trang 13 đến trang 17 nhé.
+> Ngồi ghế này đi.
 
-> 과일은 이층 내 방으로 오려 **오너라**.
+> 너 숙제 다 **했니**?
 >
-> Hãy mang trái cây lên phòng tôi ở tầng hai.
+> Con làm bài tập hết chưa?
+
+{: .note-title}
+> Phụ chú
+>
+> Trường hợp không phải là bài viết lấy cá nhân làm đối tượng thì dùng thể 해라 như thể văn viết với hình thức trình bày khác quan. Vì vậy có thể bắt gặp thể 해라 trên sách vở thông thường hay báo, tạp chí...
+>
+> Trường hợp của câu dẫn, dù câu gốc là cách nói tôn trọng hay cách nói hạ thấp thì đều chuyển sang thể 해라 rồi gắn '-고 하다' vào sau. Nhưng dạng mệnh lệnh thì gắn '-고 하다' vào sau '-(으)라' thay vì '-어(아.여)라'.
