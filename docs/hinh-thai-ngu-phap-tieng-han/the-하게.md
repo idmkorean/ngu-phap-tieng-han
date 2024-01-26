@@ -128,7 +128,9 @@ Có thể dùng khi giáo sư nói với với học sinh, cha mẹ vợ với c
     </tr>
 </table>
 
-### Trường hợp của vĩ tố kết thúc câu trần thuật thể 하게 '-(으)네'
+### -(으)네
+
+Vĩ tố kết thúc câu trần thuật thể 하게 
 
 **Ví dụ**
 
