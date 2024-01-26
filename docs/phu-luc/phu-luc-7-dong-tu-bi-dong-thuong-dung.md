@@ -5,7 +5,7 @@ nav_order: 8
 parent: Phụ lục
 ---
 
-# [Phụ lục 5] Động từ bị động thương dùng
+# [Phụ lục 7] Động từ bị động thường dùng
 
 <table>
   <tr>
