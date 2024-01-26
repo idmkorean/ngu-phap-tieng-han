@@ -175,7 +175,7 @@ Vĩ tố kết thúc câu trần thuật thể 하게
 >>
 >> Đây là phòng tôi.
 
-### Trường hợp vĩ tố kết thúc câu nghi vấn thể 하게 ['-나?'](/ngu-phap-tieng-han/docs/hinh-thai-ngu-phap-tieng-han/-나/), ['-는/(으)ㄴ가?'](/ngu-phap-tieng-han/docs/hinh-thai-ngu-phap-tieng-han/-는/(으)ㄴ가(요)/)
+### Trường hợp vĩ tố kết thúc câu nghi vấn thể 하게 ['-나?'](/ngu-phap-tieng-han/docs/hinh-thai-ngu-phap-tieng-han/-나/), ['-는/(으)ㄴ가?'](/ngu-phap-tieng-han/docs/hinh-thai-ngu-phap-tieng-han/-는(으)ㄴ가(요)/)
 
 ### Trường hợp vĩ tố kết thúc câu đề nghị thể 하게 '-세'
 
