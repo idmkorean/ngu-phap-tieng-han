@@ -3,6 +3,7 @@ layout: default
 title: Vị từ 하다 (하다 동사)
 nav_order: 685
 parent: Hình thái ngữ pháp tiếng Hàn
+has_children: true
 ---
 
 # Vị từ 하다 (하다 동사)
